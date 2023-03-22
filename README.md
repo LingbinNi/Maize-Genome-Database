@@ -6,5 +6,3 @@ Maize Genome Database is a database constructed by MonetDB on Linux OS. MonetDB 
 4. Database structure design.
 5. Data import.
 6. Data Management Query.
-
-**Author: Lingbin Ni**
